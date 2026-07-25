@@ -134,31 +134,31 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f1e05a; 
-  width: 60.853%;
+  width: 60.828%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 21.834%;
+  width: 21.890%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 5.163%;
+  width: 5.154%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 2.963%;
+  width: 2.957%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 2.814%;
+  width: 2.809%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 2.699%;
+  width: 2.694%;
 " class="progress-item"></span><span style="
   background-color: #355570; 
-  width: 1.721%;
+  width: 1.718%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 1.671%;
+  width: 1.668%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
-  width: 0.256%;
+  width: 0.255%;
 " class="progress-item"></span><span style="
   background-color: #478CBF; 
   width: 0.027%;
@@ -182,7 +182,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">60.85%</span>
+  <span class="percent">60.83%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -198,7 +198,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">21.83%</span>
+  <span class="percent">21.89%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -214,7 +214,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">5.16%</span>
+  <span class="percent">5.15%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -262,7 +262,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PowerShell</span>
-  <span class="percent">2.70%</span>
+  <span class="percent">2.69%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
