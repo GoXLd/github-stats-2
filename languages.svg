@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f1e05a; 
-  width: 63.115%;
+  width: 63.052%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 24.119%;
+  width: 24.199%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 5.153%;
+  width: 5.146%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 3.115%;
+  width: 3.111%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 2.831%;
+  width: 2.827%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 1.667%;
+  width: 1.665%;
 " class="progress-item"></span>
 </span>
 </div>
@@ -170,7 +170,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">63.11%</span>
+  <span class="percent">63.05%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -186,7 +186,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">24.12%</span>
+  <span class="percent">24.20%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -218,7 +218,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PLpgSQL</span>
-  <span class="percent">3.12%</span>
+  <span class="percent">3.11%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
