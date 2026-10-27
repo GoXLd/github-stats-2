@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #fcb32c; 
-  width: 33.953%;
+  width: 33.952%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 28.291%;
+  width: 28.289%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 20.572%;
+  width: 20.575%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 10.577%;
+  width: 10.576%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 2.639%;
+  width: 2.640%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
   width: 1.430%;
@@ -214,7 +214,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">20.57%</span>
+  <span class="percent">20.58%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
